@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new-come guest to the tovvne. That is, the descriminant oath which the Earle of Newcastle imposeth upon the countie and citie of Yorke, and all others under his command and power, violently abusing them to the maintaining of this unnaturall warre against the Parliament, to the ruine of the kingdome, and themselves. Written by a Yorke-shire gentleman, for the good (especially) of his countriemen. With a particular list of the names of the most violent papists (men of that qualitie) and others that bare armes, or are ayding and assisting to the Earle of New-castle.</title>
+            <author>Yorke-shire gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89953</idno>
+            <idno type="STC">Wing N600</idno>
+            <idno type="STC">Thomason E50_14</idno>
+            <idno type="STC">ESTC R23275</idno>
+            <idno type="EEBO-CITATION">99871952</idno>
+            <idno type="PROQUEST">99871952</idno>
+            <idno type="VID">155152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89953)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155152)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E50[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new-come guest to the tovvne. That is, the descriminant oath which the Earle of Newcastle imposeth upon the countie and citie of Yorke, and all others under his command and power, violently abusing them to the maintaining of this unnaturall warre against the Parliament, to the ruine of the kingdome, and themselves. Written by a Yorke-shire gentleman, for the good (especially) of his countriemen. With a particular list of the names of the most violent papists (men of that qualitie) and others that bare armes, or are ayding and assisting to the Earle of New-castle.</title>
+                  <author>Yorke-shire gentleman.</author>
+                  <author>Newcastle, William Cavendish, Duke of, 1592-1676, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbancke, at Graies-Inne Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iune the 5th. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to William Cavendish, Duke of Newcastle.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676. --  Declaration made by the Earl of Newcastle --  Early works to 1800.</term>
+               <term>York (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155152:1" rendition="simple:additions"/>
+            <p>A New-come Gueſt to the TOWNE.</p>
+            <p>That is, The Deſcriminant Oath which the Earle of <hi>Newcaſtle</hi> impoſeth upon the Countie and Citie of <hi>YORKE,</hi> and all others under his Command and power, violently abuſing them to the maintaining of this unnaturall Warre againſt the <hi>Parliament,</hi> to the ruine of the KINGDOME, and themſelves.</p>
+            <p>WRITTEN By a <hi>Yorke-Shire</hi> GENTLEMAN, for the good (eſpecially) of his COUNTRIE-MEN.</p>
+            <p>With a particular Liſt of the Names of rhe moſt Violent Papiſts (men of that qualitie) and others that bare ARMES, or are ayding and aſſiſting to the Earle of <hi>NEW-CASTLE.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Matthew Walbancke,</hi> at <hi>Graieſ-Inne</hi> Gate. <hi>Iune</hi> the 5th. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oath">
+            <pb n="2" facs="tcp:155152:2"/>
+            <head>AN Oath taken by the Gentrie, and Inhabitants of the CITIE and Countie of <hi>YORKE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>A. B.</hi> doe hereby teſtifie, and declare, that our Soveraigne Lord King <hi>Charles</hi> is the true and law<g ref="char:EOLhyphen"/>full King of <hi>England,</hi> and of all his other Domi<g ref="char:EOLhyphen"/>nions; and that neither the two Houſes of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> the people nor any part of them have any power, or authoritie over him, or the Crowne; neither ought they, or any of his Subjects of this Kingdome of <hi>England,</hi> or his other dominions, upon any pretence whatſoever, to take up Armes againſt his Sacred Majeſtie, His perſon, his Crown, his Generalls or Souldiers authorized by him, nor may they by any authoritie or pretence whatſoever, make or levie War within this Kingdome, or his other dominions, or any way uſe his Royall authority, or name for that purpoſe, without his evidence, &amp; pub<g ref="char:EOLhyphen"/>like conſent before obtained. And I do further ſweare, that I will beare true faith, and Allegiance to His Sacred Majeſtie, and his Crowne; and to my might and power will aſſiſt him, his Ge<g ref="char:EOLhyphen"/>neralls and all under their command, againſt all ſuch as have taken, or ſhall take up Armes againſt him, or that have or ſhall take up armes within this Kingdom, without his Maieſties evident publike, or reall Authoritie, and eſpecially againſt <hi>Kobert</hi> Earle of <hi>Eſſex, Ferdinando</hi> Lord <hi>Fairfax,</hi> (pretended generalls for the <hi>Parli<g ref="char:EOLhyphen"/>ament</hi>) and all their aſſociates &amp; confederates, and all others what<g ref="char:EOLhyphen"/>ſoever that derive not their authority by particular Commiſſions from His Maieſtie, and his Generalls.</p>
+            <p>And I doe further declare, from the bottom of my heart, that diverſe of the Scottiſh Nation, having preſumed to enter into this
+<pb n="3" facs="tcp:155152:2"/>
+Kingdome in a warlike manner without his Maieſties evident and publike authority firſt obtained, and publiſhed: I will readily, and to the utmoſt of mine abilitie with the hazard of my life, and for<g ref="char:EOLhyphen"/>tunes, aſſiſt his Maieſtie, his Generalls, and all under their Com<g ref="char:EOLhyphen"/>mands, in reſiſting, oppoſing; and purſuing ſuch <hi>Scotts,</hi> in a hoſtile way, as rebells, and traytors againſt his Maieſty, and enemies to the Crowne of <hi>England.</hi> And I doe further ſweare, that I will to my power aſsiſt, and defend all ſuch as ſhall take this Oath, in pur<g ref="char:EOLhyphen"/>ſuance of the ſame, and particularly defend this Citie, and Gari<g ref="char:EOLhyphen"/>ſon of <hi>Yorke,</hi> and during my reſidence there, oppoſe all ſuch, as ſhall make any attempt againſt it, and all ſuch plots, and deſignes as ſhall come to my knowledge, that may bee preiudiciall to His Maieſties ſervice, or deſtructive to the Forces raiſed by His Maie<g ref="char:EOLhyphen"/>ſties Commiſsions. I will from time to time diſcover to His Ma<g ref="char:EOLhyphen"/>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſties Generall, or the Commander in Chiefe of this County, and in their abſence, to the Chiefe Officer for the time being of this Gariſon, and all this I do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> un<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inedly ſweare, without any equivocation or mentall reſervation, ſo help me God.</p>
+         </div>
+         <div type="essay_upon_oath">
+            <head>A briefe eſſay or diſcourſe upon the ſame.</head>
+            <p>I Meane not to ſpatter or daſh inke upon any perſon of either whoſe fame, or modera<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e credit. I am neither by nature, nor cuſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me a man of lower councells, and beſides born by Religion, and the gravitie o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my calling, ſummon me to beware of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng language, which is none other thing then, <hi>Sputum Diaboli</hi> the Flegme, and Spawling of the Devill. Strong <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>nes never g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed upon any but weake heads. Wiſeſt men are erned and won by ſoft words and ſtrong arguments. I am a <hi>Yorkeſhire</hi> man by birth and moſt by reſience, and was ſo long an eye witneſſe and ſpecta<g ref="char:EOLhyphen"/>tor of this Tragedy of civill Warre, till the S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ag was all on fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. That which I undertake is no more, then to beſtow a few pen fulls of Inke, and one halfe ſheete of paper, to ſhew that the taking of this Oath, can hold no proportion with the deliberate, and adviſed actions of a man either religious, and fearing God, or of a man no more than morally rationall and prudentiall.</p>
+            <p>And firſt I would have him who is concerned herein to ob<g ref="char:EOLhyphen"/>ſerve
+<pb n="4" facs="tcp:155152:3"/>
+with what a ſpecious ſhew the crafts-men of this Oath have laid the firſt ſtone of it, to wit, in the very words of the Oath of Supremacie, that our Soveraigne Lord King <hi>Charles,</hi> is the true and lawful King of England, and of all other his Dominions. Well ſaid; but why doe you not goe on, and that neither the Pope not any other f om him, <hi>&amp;c</hi> hath power to diſpoſe of his Kingdome, <hi>&amp;c.</hi> but of the Pope, and thoſe Eccleſiaſticall pow rs, not a word or ſyllable in this oath. You are apprehended in the very act, and the caſe is ſo plaine, that impudence it ſelfe cannot deny, but that it is done to advantage the Papiſts in their Diana of the Pops Supremacie and juriſdiction over the Crowns, and Scepters of all Emperours, Kings and Princes. Wee all know the two breves of Pope <hi>Pius</hi> the fifth, to the Papiſts of <hi>England,</hi> and the letter of Cardinall <hi>Bellarmine</hi> to <hi>Blackwell</hi> the Arch-Prieſt, the declaring the ſin<g ref="char:EOLhyphen"/>fulneſſe, and unlawfulneſſe of that Oath of Supremacie, aſſuring that it cannot be taken with a good Conſcience, that it is deſtruct<g ref="char:EOLhyphen"/>ive to one of the maine Articles of the Romiſh faith, the prima<g ref="char:EOLhyphen"/>cie and ſuperintendencie of the Sea of <hi>Rome:</hi> that it is to bee re<g ref="char:EOLhyphen"/>tracted, and rep nted by thoſe who have taken it out of weake<g ref="char:EOLhyphen"/>neſſe or feare, <hi>&amp;c.</hi> King <hi>Iames</hi> that learned and notable Prince: tooke pen in hand, and whe ted his ſtile maſculinely to diſcover theſe grand juglings and impoſtures in a juſt tractate, which is to be red in his workes, the more hate and blame will lye upon thoſe who pretending zeale to the ſervice of his ſonne, will thus ex<g ref="char:EOLhyphen"/>poſe, him and his Crowne, to the greateſt enemies that ever the Crowne of <hi>England</hi> had. The Sea of <hi>Rome.</hi>
+            </p>
+            <p>Secondly I would have it obſerved, that if this Oath and the pur<g ref="char:EOLhyphen"/>port of it bee bolted to the bran and conſidered <hi>à baſſo ad altum,</hi> and the faireſt conſtruction allowed unto it that may be in reaſon pretended unto, that thus much will follow by good concluſion, that if not only the King (whom God bleſſe &amp; whom we will not aſperſe with ſuſpitions) but if the Souldiers and Generalls who have Commiſſion from him (many of w<hi rend="sup">ch</hi> without any breach of Charity at all, according to the ſtricteſt Caſuiſts in point of Con<g ref="char:EOLhyphen"/>ſcience, I may and ought to be jealous of) ſhould ſtrive or have it in deſigne to introduce Popery, Liberty, and prophaneneſſe, Ty<g ref="char:EOLhyphen"/>ranie, and Slavery, Monopolies, and Taxes, even <hi>élotione,</hi> and the
+<pb n="5" facs="tcp:155152:3"/>
+bre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king of this Parliament and conſequently of all others ever to ſucc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, further then to bee meerely nominall, I am bound (if a wr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d unjuſt Oath could binde a man to any more then to repentance) both not to reſiſt, and even to aſſiſt them therein, in the contriving and incompaſſing their wicked deſignes. Nay nothing in this Oath withſtands, why the ſwearer of it ſhould not introduce Iudaiſme, Mahometaniſme, Paganiſme, if the Generalls and Souldiers who have Commiſſion derived from the KING, would have it ſo.</p>
+            <p>Thirdly, it may well be noted, in how broade a difference, the Nationall Covenant (which is their <hi>Cor dolium,</hi> and whereat they ſo much ſtorm) and this Oath doth run. That propounds the de<g ref="char:EOLhyphen"/>fence of the perſon and juſt rights of the King, the ſettling of the Proteſtant Religion, the due liberty of the Subject, the priviledges of Parliament, the extirpation of Popery and Prelacy, the union &amp; uniformity of two Nations, whom God and nature have made one in deviding them from all the world, uniting them in one Iland, and under one Monarch, &amp;c.</p>
+            <p>Theſe are heads worthy to bee the theame of an Oath, and baites which may catch prudent, and good men, and even warm and kindle a man by degrees from nutrality to Zeale.</p>
+            <p>This Oath leads a man on in a blind obedience, ſayes not a word of the Cauſe or reaſons of either offenſive or defenſive armes, but thinks to over awe the conſcience with perſons, firſt the <hi>King</hi> (w<hi rend="sup">ch</hi> indeed is a venerable name, and wherein it weighs leſſe then ever it did, it is principally occaſioned by thoſe who pretends to be his friends and ſupporters, then forſooth, his Generalls and Souldiers a generation of men, whom if we had never known or fel, perhaps we might have had ſome tollerable conceits of them, but whilſt we k<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow there is nothing, leſſe then any thing of either a Chri<g ref="char:EOLhyphen"/>ſtian, Gentleman, or Souldier in very many of them, that they have ſpoyled &amp; laid waſt the largeſt and goodlieſt Country in the Kin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s domminions and behaved themſelves as ſo many Bores in a garden, o the infinit and irreparable prejudice of others, and even with little or none advantage to their owne ſide, that the generall himſelfe however he may pretend to point of honour and Court<g ref="char:EOLhyphen"/>ſhip,
+<pb n="6" facs="tcp:155152:4"/>
+and indeed is a man of more ſtate and difficult acceſſe then the King is by many degrees, &amp; can cary himſelfe ſtately, keepe diſtance entertaine a Miſtris, &amp;c. yet in truth is one who never laid any Re<g ref="char:EOLunhyphen"/>ligion to heart, nor hath any thing of a Souldier in him, but is wholy ſteered by Gene all King, Sir <hi>Thomas Glenham</hi> Sir <hi>William Widring<g ref="char:EOLhyphen"/>ton,</hi> Colonell <hi>Goring</hi> whilſt he was there, &amp;c. men who have not an Acre of land in our County; Laſtly that the moſt of the Cap<g ref="char:EOLhyphen"/>taines and Souldiers are Tygers and Beares for cruelty, bores for waſt and devaſtations, Swine for Drunkeneſſe, Goats and Stal<g ref="char:EOLhyphen"/>lions for Luſt, &amp;c. in ſo much as Captaine <hi>Legg,</hi> when <hi>Iohn Owſman</hi> the Poſt-Maſter of <hi>Yorke</hi> did come and tamely enough charge him for violating the Lawes of Hoſpitality ſo farre as having, the Com<g ref="char:EOLhyphen"/>mand of his whole houſe he had got his daughter with Child, the Captaine tooke it very ill that he ſhould complaine, and ſaid he had done more then ſo, he had laine with all in his houſe, ſave him ſelfe, and his Oaſtler.</p>
+            <p>Laſtly, I deſire the grand impoſture of all may be detected which indeed hath beene the Maſter peece of their game, and whereby they have gained more proſylites then by all the reſt of their play, which is the frequent uſing the name of the <hi>King and his ſa<g ref="char:EOLhyphen"/>cred Maieſty</hi> and the like, though in truth the ſame obſervations that S. <hi>Aug.</hi> made of the Pelagians, doth heere take the place that they did fill their mouths, and with the word <hi>Grace, grace,</hi> but it was only <hi>frangere invidiam,</hi> to break the ſtroke of envy: ſo theſe men cry, <hi>Treaſon, Treaſon, Rebellion, Reb<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llion, the King, his ſacred Per<g ref="char:EOLhyphen"/>ſon and Crowne,</hi> when all is but to put ſome ſeeming pacifi<g ref="char:EOLhyphen"/>cation on the minds of the vulgar &amp; ſimple, &amp; to cover over with ſome modeſty their dangerous deſignes, and uncomly practizes.</p>
+            <p>And m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rke I pray you further how twice in this mould of their Oath, they joyne together the <hi>King his Generalls, and Souldiers</hi> as if any <hi>Yorkſhire</hi> man who knowes the families of that Coun<g ref="char:EOLhyphen"/>try, cannot diſtinguiſh betwixt the Swerd of King <hi>Charles,</hi> and the Sword of an <hi>Howard, Dunbarre, Evers, Falconverg Gaſcoigne, Sayer, Bulmer, Vavasor, Mydulton, Menie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Errington To<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtall VVil<g ref="char:EOLhyphen"/>ham, Salvi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Fairfax of Gillings, Gailes, Thuaites, Craythorne,</hi> &amp; many more families of that Country who are notorious, Hiſpaniolized and Ieſuited Papiſts, and all up in this buſineſſe, the yongue men
+<pb n="7" facs="tcp:155152:4"/>
+with their Swords, middle men with their Councells &amp; Com<g ref="char:EOLhyphen"/>mittees, and the aged with their orizons well; <hi>non arabis cum bo<g ref="char:EOLhyphen"/>ve et a ſino</hi> it is an unworthy Conjunction to joyne the King &amp; theſe men together, and I hope theſe mens ſwords ſhall never fit the Kings Scab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd, but they deale iuſt as <hi>Greg. Nazioanzen</hi> in his firſt Oration againſt <hi>Iulian</hi> ſaith the Pagan Emperors did, who ſtamped together upon the ſame coynes the Image of <hi>Ceſar</hi> and of the Pagan Gods, that if the Chriſtians would not adore thoſe Idolls, they might be guilty alſo of not doing homage to the Em<g ref="char:EOLhyphen"/>perour, &amp; ſo ſuffer both death &amp; confiſcation, ſo theſe conjoyne ſtill the <hi>King and his Souldiers,</hi> that who ſo diſreſpects &amp; diſobeyes ſuch fellowes as <hi>Duncombe,</hi> or Duke <hi>Holtby,</hi> men infamous and ſtigma<g ref="char:EOLhyphen"/>tived in their very moralls, muſt be ſaid to reflect upon the King himſelfe? but do I not know rancide and futile this argument i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? did I not ſee what a ſtrong and cheife influence the Papiſts had on the Army and Countrie? how all painfull and ho<g ref="char:EOLhyphen"/>neſt Miniſters? were baniſhed, were they never ſo moderate and cautious in their expreſſions, or retired in their aboades, only becauſe they would not rant and curvet in pulpits for their cauſe? did I not ſee and tell ſome of the Committee in <hi>Yorke</hi> that they could not but take notice what a perſecution was upon Religion un<g ref="char:EOLhyphen"/>der pretence of being for the King? did not the Earle of <hi>Newcaſtle</hi> in his Proclamations and edicts give the Papiſts that ſoft and oyly terme of thoſe of the <hi>Romiſh Communion?</hi> and after did hee no: (weakly and ſillily enough God-wot, unleſſe he would have had all the world to have knowne our <hi>ſynaiocrateia</hi>) inſert in his commands, that he did command this and that <hi>with the ad<g ref="char:EOLhyphen"/>vice and conſent of the Queene?</hi> and though the old Papiſts were more cautious in their words at firſt, did not ſuch of them as we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e impetuous and forward, by reaſon of drinck, or paſſion, or youth, declare plainely it was not for the King they drew their Sword<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but for th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Queene, and for their own Religion, and preſervation: did not young <hi>Sayre</hi> (a family of 1700 l. <hi>Per annum,</hi> and yet muſt have from the Earle of <hi>Newcaſtle</hi> a grant of Sir <hi>Mathew Boin<g ref="char:EOLhyphen"/>tons</hi> rents, and others to) ſay, that he hoped by ſuch a day, there ſhould not be a Round head in <hi>Yorke-ſhire,</hi> I meane, quoth he, not a Proteſtant, but I containe.</p>
+            <p>
+               <pb n="8" facs="tcp:155152:5"/>Thus have I a little hunted as a Flea, and a Partridge, this unrea<g ref="char:EOLhyphen"/>ſonable, and dangerous Oath, compoſed as I verily think, not only for and in behalfe of the Papiſts, but by them, or their Prieſts, and Ieſuites, or at leaſt, as they ſay, Mahomet had his Alcoran made up by a Iew, and a Neſtorian Monke, to cull out of both religi<g ref="char:EOLhyphen"/>ons, what might pleaſe moſt. So I doubt (I will not affirme it, for that were to undervalue my ſelfe to aſſert what I am not cer<g ref="char:EOLhyphen"/>taine of) that not only ſome Popiſh Prieſts, but perhaps Doctor <hi>Balcanquall,</hi> Biſh. <hi>Bramhall,</hi> Doctor <hi>Couzins,</hi> Maſter <hi>Triplit,</hi> Maſter <hi>Neale,</hi> and ſuch have too much countenanced this Oath.</p>
+            <p>My advice in a word to my Country men is, that thoſe that have not taken it, will truſt God for protection, and not build up matter thereby, for they know not how much ſorrow afterwards, if they belong to God, and thoſe that through ignorance or frailty have, they would remember that good and ſafe rule, <hi>In malis promiſsis reſcinde fidem in turpi voto muta decretum,</hi> and conclude as the Biſh. of <hi>Wincheſter (Andrewes)</hi> did in the Star-Chamber, in the caſe of the Count<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe of <hi>Shrewsburie,</hi> who would not ſpeake in a cauſe, wherein ſhe ſhould have given teſtimony, becauſe ſhee had vow<g ref="char:EOLhyphen"/>ed to bee ſilent. I aſſure your Ladiſhip, <hi>Madam,</hi> quoth hee, you may not onely breake your vow, but vow never to make one ſo raſh and fooliſh againe.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Printed according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
